@@ -12,8 +12,9 @@ Se você identificar problemas, bugs ou tiver sugestões de melhorias, sinta-se 
 ## Recursos Adicionais
 Caso deseje aprofundar seus conhecimentos sobre Grid e Flexbox, recomendamos os seguintes recursos:
 
-Documentação do CSS Grid: CSS Grid Layout - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
-Documentação do Flexbox: Flexbox - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+- Documentação do CSS Grid: CSS Grid Layout - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
+- Documentação do Flexbox: Flexbox - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
-## Licença
+## Licença 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) <br>
 Este projeto é disponibilizado sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.
